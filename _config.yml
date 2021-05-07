@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: interpark-tech
+subtitle: interpark Tech Blog
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -8,8 +8,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
-      url: /
+    - text: 인터테크 채용
+      url: https://interpark.recruiter.co.kr/appsite/company/index
     - text: About
       url: /about
     - text: Blog
